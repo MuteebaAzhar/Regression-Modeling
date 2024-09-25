@@ -1,4 +1,4 @@
-# Regression Modeling Analysis of Smoking Behavior Dataset
+# Regression Modeling of Smoking Dataset
 
 ## Project Overview
 
@@ -22,7 +22,7 @@ The regression analysis involves exploring correlations, developing predictive m
 ## Analysis Workflow
 
 1. **Data Preprocessing**:
-    - The smoking behavior dataset was loaded and prepared for analysis.
+    - The smoking dataset was loaded and prepared for analysis.
     - Missing values and outliers were identified and addressed to refine the dataset.
 
 2. **Exploratory Data Analysis (EDA)**:
@@ -52,4 +52,4 @@ The analysis identified several significant predictors of health outcomes relate
 
 ## Acknowledgments
 
-We acknowledge the sources of the smoking behavior dataset and the contributors to public health research.
+We acknowledge the sources of the smoking dataset and the contributors to public health research.
