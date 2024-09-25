@@ -15,7 +15,7 @@ library(pROC)
 # Set the file as the Working Directory
 # Calling the Dataset
 library(readr)
-data<- read_csv("C:/Users/PMLS/Downloads/smoking_dataset.csv")
+data<- read_csv("path/to/your/smoking_dataset.csv")
 View(data)
 data <- read.csv("smoking_dataset.csv")
 
